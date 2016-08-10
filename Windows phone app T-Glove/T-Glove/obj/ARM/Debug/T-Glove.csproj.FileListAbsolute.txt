@@ -1,0 +1,832 @@
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\T-Glove.csprojResolveAssemblyReference.cache
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\App.g.i.cs
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\App.g.cs
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\MainPage.g.i.cs
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\MainPage.g.cs
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\XamlTypeInfo.g.cs
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\App.xaml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\MainPage.xaml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\App.xbf
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\MainPage.xbf
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\XamlSaveStateFile.xml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\ApplicationInsights.config
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\App.xbf
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\MainPage.xbf
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\T-Glove.xr.xml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\T-Glove.exe
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\T-Glove.pdb
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\resources.pri
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\AppxManifest.xml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Core\AppxManifest.xml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Core\T-Glove.exe
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\T-Glove.build.appxrecipe
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.ApplicationInsights.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.CSharp.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Core.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Net.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Numerics.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Runtime.Serialization.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.ServiceModel.Web.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.ServiceModel.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Windows.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Xml.Linq.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Xml.Serialization.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Xml.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.VisualBasic.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Shim.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Shim.pdb
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Shim.Drawing.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Shim.Drawing.pdb
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.AppContext.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Collections.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Collections.Concurrent.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Collections.Immutable.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Collections.NonGeneric.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Collections.Specialized.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.ComponentModel.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Data.Common.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Diagnostics.Debug.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Diagnostics.Tools.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Dynamic.Runtime.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Globalization.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Globalization.Calendars.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Globalization.Extensions.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.IO.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.IO.Compression.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\ClrCompression.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.IO.FileSystem.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Linq.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Linq.Expressions.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Linq.Parallel.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Linq.Queryable.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Net.Http.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Net.Http.Rtc.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Net.NetworkInformation.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Net.Primitives.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Net.Requests.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Net.Sockets.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Numerics.Vectors.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.ObjectModel.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Private.Networking.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Private.ServiceModel.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Private.Uri.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Reflection.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Reflection.Context.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Reflection.Emit.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Reflection.Extensions.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Reflection.Metadata.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Reflection.Primitives.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Resources.ResourceManager.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Runtime.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Runtime.Extensions.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Runtime.Handles.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Runtime.InteropServices.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Runtime.Numerics.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Security.Claims.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Security.Principal.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.ServiceModel.Http.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.ServiceModel.Security.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Text.Encoding.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Text.RegularExpressions.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Threading.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Threading.Overlapped.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Threading.Tasks.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Threading.Timer.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Xml.XDocument.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Xml.XmlDocument.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\T-Glove.exe
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\T-Glove.pdb
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\ResourceHandlingTask.state
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.IO.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\priconfig.xml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\priconfig.xml.intermediate
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\layout.resfiles
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\layout.resfiles.intermediate
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\resources.resfiles
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\resources.resfiles.intermediate
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\pri.resfiles
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\pri.resfiles.intermediate
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\qualifiers.txt
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\qualifiers.txt.intermediate
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\Shim.pri.xml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\Shim.Drawing.pri.xml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\ProjectArchitectures.txt
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\HistoryPage.xbf
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\HistoryPage.g.i.cs
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\HistoryPage.g.cs
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\HistoryPage.xaml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\HistoryPage.xbf
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\GetStartedPage.xbf
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\GetStartedPage.g.i.cs
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\GetStartedPage.g.cs
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\GetStartedPage.xaml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\GetStartedPage.xbf
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\FreeStylePage.xbf
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FreeStylePage.g.i.cs
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FreeStylePage.g.cs
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FreeStylePage.xaml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\FreeStylePage.xbf
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.Data.Edm.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\de\Microsoft.Data.Edm.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\es\Microsoft.Data.Edm.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\fr\Microsoft.Data.Edm.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\it\Microsoft.Data.Edm.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\ja\Microsoft.Data.Edm.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\ko\Microsoft.Data.Edm.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\ru\Microsoft.Data.Edm.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.Data.OData.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\de\Microsoft.Data.OData.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\es\Microsoft.Data.OData.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\fr\Microsoft.Data.OData.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\it\Microsoft.Data.OData.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\ja\Microsoft.Data.OData.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\ko\Microsoft.Data.OData.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\ru\Microsoft.Data.OData.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Net.Http.Extensions.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Net.Http.Primitives.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Newtonsoft.Json.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\System.Spatial.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\de\System.Spatial.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\es\System.Spatial.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\fr\System.Spatial.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\it\System.Spatial.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\ja\System.Spatial.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\ko\System.Spatial.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\ru\System.Spatial.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\zh-Hans\System.Spatial.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\zh-Hant\System.Spatial.resources.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.WindowsAzure.Storage.pdb
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\WinRTXamlToolkit.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\System.Spatial\en-US\System.Spatial.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\T-Glove.csproj.GenerateResource.Cache
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\WinRTXamlToolkit.pri.xml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\TCD.Controls.dll
+c:\users\moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\TCD.Controls.pri.xml
+C:\Users\Moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\BluetoothManager.dll
+C:\Users\Moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.Maker.Firmata.dll
+C:\Users\Moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.Maker.RemoteWiring.dll
+C:\Users\Moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.Maker.Serial.dll
+C:\Users\Moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.Maker.Firmata.winmd
+C:\Users\Moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.Maker.RemoteWiring.winmd
+C:\Users\Moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\Microsoft.Maker.Serial.winmd
+C:\Users\Moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\bin\ARM\Debug\ClassicPage.xbf
+C:\Users\Moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\ClassicPage.g.i.cs
+C:\Users\Moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\ClassicPage.g.cs
+C:\Users\Moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\ClassicPage.xaml
+C:\Users\Moawiya\documents\visual studio 2015\Projects\T-Glove\T-Glove\obj\ARM\Debug\ClassicPage.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\ApplicationInsights.config
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\App.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\ClassicPage.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\FreeStylePage.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\GetStartedPage.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\HistoryPage.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\MainPage.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\T-Glove.xr.xml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\T-Glove.exe
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\T-Glove.pdb
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\resources.pri
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\AppxManifest.xml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Core\T-Glove.exe
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\T-Glove.build.appxrecipe
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\BluetoothManager.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Data.Edm.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Data.OData.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Core.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Numerics.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Windows.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Shim.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Shim.pdb
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Shim.Drawing.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Shim.Drawing.pdb
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.AppContext.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Collections.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Globalization.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\ClrCompression.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Linq.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Private.Networking.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Spatial.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\de\System.Spatial.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\es\System.Spatial.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\fr\System.Spatial.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\it\System.Spatial.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\ja\System.Spatial.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\ko\System.Spatial.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\ru\System.Spatial.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Threading.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\TCD.Controls.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Maker.Firmata.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Maker.RemoteWiring.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Maker.Serial.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Maker.Firmata.winmd
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Maker.RemoteWiring.winmd
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Maker.Serial.winmd
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\WinRTXamlToolkit.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\bin\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\T-Glove.csprojResolveAssemblyReference.cache
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\App.g.i.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\App.g.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\ClassicPage.g.i.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\ClassicPage.g.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FreeStylePage.g.i.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FreeStylePage.g.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\GetStartedPage.g.i.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\GetStartedPage.g.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\HistoryPage.g.i.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\HistoryPage.g.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\MainPage.g.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\App.xaml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\ClassicPage.xaml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FreeStylePage.xaml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\GetStartedPage.xaml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\HistoryPage.xaml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\MainPage.xaml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\App.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\ClassicPage.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FreeStylePage.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\GetStartedPage.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\HistoryPage.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\MainPage.xbf
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\T-Glove.exe
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\T-Glove.pdb
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\System.Spatial\en-US\System.Spatial.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\T-Glove.csproj.GenerateResource.Cache
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\priconfig.xml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\layout.resfiles
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\resources.resfiles
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\pri.resfiles
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\qualifiers.txt
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\Shim.pri.xml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\Shim.Drawing.pri.xml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\TCD.Controls.pri.xml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\obj\ARM\Debug\ProjectArchitectures.txt
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\T-Glove.csprojResolveAssemblyReference.cache
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\App.g.i.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\App.g.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\ClassicPage.g.i.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\ClassicPage.g.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FreeStylePage.g.i.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FreeStylePage.g.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\GetStartedPage.g.i.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\GetStartedPage.g.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\HistoryPage.g.i.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\HistoryPage.g.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\MainPage.g.i.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\MainPage.g.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\XamlTypeInfo.g.cs
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\App.xaml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\ClassicPage.xaml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FreeStylePage.xaml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\GetStartedPage.xaml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\MainPage.xaml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\HistoryPage.xaml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\App.xbf
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\ClassicPage.xbf
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FreeStylePage.xbf
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\GetStartedPage.xbf
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\MainPage.xbf
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\HistoryPage.xbf
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\XamlSaveStateFile.xml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\T-Glove.exe
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\T-Glove.pdb
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\ApplicationInsights.config
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\App.xbf
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\ClassicPage.xbf
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\FreeStylePage.xbf
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\GetStartedPage.xbf
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\HistoryPage.xbf
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\MainPage.xbf
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\T-Glove.xr.xml
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\T-Glove.exe
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\T-Glove.pdb
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\resources.pri
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\AppxManifest.xml
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Core\AppxManifest.xml
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Core\T-Glove.exe
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\T-Glove.build.appxrecipe
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\BluetoothManager.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.ApplicationInsights.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.CSharp.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Data.Edm.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\de\Microsoft.Data.Edm.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\es\Microsoft.Data.Edm.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\fr\Microsoft.Data.Edm.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\it\Microsoft.Data.Edm.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\ja\Microsoft.Data.Edm.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\ko\Microsoft.Data.Edm.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\ru\Microsoft.Data.Edm.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Data.OData.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\de\Microsoft.Data.OData.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\es\Microsoft.Data.OData.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\fr\Microsoft.Data.OData.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\it\Microsoft.Data.OData.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\ja\Microsoft.Data.OData.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\ko\Microsoft.Data.OData.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\ru\Microsoft.Data.OData.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Http.Extensions.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Http.Primitives.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Core.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Numerics.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Serialization.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.Web.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Windows.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.Linq.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.Serialization.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.VisualBasic.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Newtonsoft.Json.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Shim.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Shim.pdb
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Shim.Drawing.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Shim.Drawing.pdb
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.AppContext.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Collections.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Collections.Concurrent.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Collections.Immutable.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Collections.NonGeneric.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Collections.Specialized.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.ComponentModel.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Data.Common.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Diagnostics.Debug.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Diagnostics.Tools.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Dynamic.Runtime.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Globalization.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Globalization.Calendars.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Globalization.Extensions.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.Compression.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\ClrCompression.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.FileSystem.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Linq.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Linq.Expressions.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Linq.Parallel.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Linq.Queryable.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Http.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Http.Rtc.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.NetworkInformation.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Primitives.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Requests.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.Sockets.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Numerics.Vectors.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.ObjectModel.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Private.Networking.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Private.ServiceModel.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Private.Uri.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Context.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Emit.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Extensions.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Metadata.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.Primitives.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Resources.ResourceManager.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Extensions.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Handles.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.InteropServices.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Numerics.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Security.Claims.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Security.Principal.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.Http.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.ServiceModel.Security.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Spatial.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\de\System.Spatial.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\es\System.Spatial.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\fr\System.Spatial.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\it\System.Spatial.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\ja\System.Spatial.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\ko\System.Spatial.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\ru\System.Spatial.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\zh-Hans\System.Spatial.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\zh-Hant\System.Spatial.resources.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Text.Encoding.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Text.RegularExpressions.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Threading.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Threading.Overlapped.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Threading.Tasks.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Threading.Timer.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.XDocument.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.XmlDocument.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\TCD.Controls.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Maker.Firmata.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Maker.RemoteWiring.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Maker.Serial.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Maker.Firmata.winmd
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Maker.RemoteWiring.winmd
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.Maker.Serial.winmd
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.WindowsAzure.Storage.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\Microsoft.WindowsAzure.Storage.pdb
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\WinRTXamlToolkit.dll
+G:\Arduino\T-Glove app\T-Glove\bin\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\ResourceHandlingTask.state
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.IO.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\T-Glove.csproj.GenerateResource.Cache
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\priconfig.xml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\priconfig.xml.intermediate
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\layout.resfiles
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\layout.resfiles.intermediate
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\resources.resfiles
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\resources.resfiles.intermediate
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\pri.resfiles
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\pri.resfiles.intermediate
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\qualifiers.txt
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\qualifiers.txt.intermediate
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\Shim.pri.xml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\Shim.Drawing.pri.xml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\TCD.Controls.pri.xml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\WinRTXamlToolkit.pri.xml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+G:\Arduino\T-Glove app\T-Glove\obj\ARM\Debug\ProjectArchitectures.txt

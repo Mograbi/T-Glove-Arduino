@@ -1,0 +1,1 @@
+C:\Users\basel\Dropbox\236504 - Arduino Project\T-Glove app\T-Glove\T-Glove.csproj;x64

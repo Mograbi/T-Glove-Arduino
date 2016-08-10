@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="T_Glove.GetStartedPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:T_Glove"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="LightBlue">
+        <Grid  HorizontalAlignment="Left" Height="545" Margin="10,10,0,0" VerticalAlignment="Top" Width="336">
+            <Button x:Name="cancel" Background="RosyBrown" Content="Cancel" HorizontalAlignment="Left" Margin="93,490,0,0" VerticalAlignment="Top" Height="45" Width="155" Click="cancel_Click"/>
+            <RadioButton x:Name="Classic" Content="Classic" HorizontalAlignment="Left" Margin="93,157,0,0" VerticalAlignment="Top" Checked="Classic_Checked"/>
+            <RadioButton x:Name="FreeStyle" Content="Free Style" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="93,188,0,0" Checked="FreeStyle_Checked"/>
+            <Button x:Name="proceed" Background="Khaki" Content="Proceed" HorizontalAlignment="Left" Margin="93,261,0,0" VerticalAlignment="Top" Height="45" Width="155" Click="proceed_Click"/>
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="209" Margin="46,130,0,0" VerticalAlignment="Top" Width="244"/>
+
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,3 @@
+http://42bots.com/tutorials/hc-06-bluetooth-module-datasheet-and-configuration-with-arduino/
+
+http://www.instructables.com/id/Add-bluetooth-to-your-Arduino-project-ArduinoHC-06/

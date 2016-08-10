@@ -1,0 +1,1 @@
+G:\Arduino\T-Glove app\T-Glove\T-Glove.csproj;arm
